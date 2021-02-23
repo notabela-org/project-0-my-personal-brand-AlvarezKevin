@@ -1,15 +1,22 @@
 
 .company {
-  width: 35%;
+  width: 30%;
   float: left;
   max-width: 50%;
   height: auto;
-  padding: 20px;
+  padding: 10px;
 }
 
 .col align-self-center p {
   float: right;
 }
+
+.personal {
+  width: 40%;
+  height: auto;
+  border-radius: 50%;
+}
+
 
 h2 {
   padding: 5px;
