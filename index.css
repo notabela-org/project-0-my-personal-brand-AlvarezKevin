@@ -1,0 +1,17 @@
+
+.company {
+  width: 35%;
+  float: left;
+  max-width: 50%;
+  height: auto;
+  padding: 20px;
+}
+
+.col align-self-center p {
+  float: right;
+}
+
+h2 {
+  padding: 5px;
+}
+
